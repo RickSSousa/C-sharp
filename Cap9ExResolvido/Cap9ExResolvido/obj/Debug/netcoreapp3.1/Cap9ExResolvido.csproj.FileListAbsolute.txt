@@ -1,0 +1,13 @@
+C:\Users\ricks\Desktop\programas\Cap9ExResolvido\Cap9ExResolvido\bin\Debug\netcoreapp3.1\Cap9ExResolvido.exe
+C:\Users\ricks\Desktop\programas\Cap9ExResolvido\Cap9ExResolvido\bin\Debug\netcoreapp3.1\Cap9ExResolvido.deps.json
+C:\Users\ricks\Desktop\programas\Cap9ExResolvido\Cap9ExResolvido\bin\Debug\netcoreapp3.1\Cap9ExResolvido.runtimeconfig.json
+C:\Users\ricks\Desktop\programas\Cap9ExResolvido\Cap9ExResolvido\bin\Debug\netcoreapp3.1\Cap9ExResolvido.runtimeconfig.dev.json
+C:\Users\ricks\Desktop\programas\Cap9ExResolvido\Cap9ExResolvido\bin\Debug\netcoreapp3.1\Cap9ExResolvido.dll
+C:\Users\ricks\Desktop\programas\Cap9ExResolvido\Cap9ExResolvido\bin\Debug\netcoreapp3.1\Cap9ExResolvido.pdb
+C:\Users\ricks\Desktop\programas\Cap9ExResolvido\Cap9ExResolvido\obj\Debug\netcoreapp3.1\Cap9ExResolvido.csproj.AssemblyReference.cache
+C:\Users\ricks\Desktop\programas\Cap9ExResolvido\Cap9ExResolvido\obj\Debug\netcoreapp3.1\Cap9ExResolvido.AssemblyInfoInputs.cache
+C:\Users\ricks\Desktop\programas\Cap9ExResolvido\Cap9ExResolvido\obj\Debug\netcoreapp3.1\Cap9ExResolvido.AssemblyInfo.cs
+C:\Users\ricks\Desktop\programas\Cap9ExResolvido\Cap9ExResolvido\obj\Debug\netcoreapp3.1\Cap9ExResolvido.csproj.CoreCompileInputs.cache
+C:\Users\ricks\Desktop\programas\Cap9ExResolvido\Cap9ExResolvido\obj\Debug\netcoreapp3.1\Cap9ExResolvido.dll
+C:\Users\ricks\Desktop\programas\Cap9ExResolvido\Cap9ExResolvido\obj\Debug\netcoreapp3.1\Cap9ExResolvido.pdb
+C:\Users\ricks\Desktop\programas\Cap9ExResolvido\Cap9ExResolvido\obj\Debug\netcoreapp3.1\Cap9ExResolvido.genruntimeconfig.cache

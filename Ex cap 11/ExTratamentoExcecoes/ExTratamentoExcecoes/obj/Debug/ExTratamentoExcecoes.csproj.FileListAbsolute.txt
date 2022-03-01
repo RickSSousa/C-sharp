@@ -1,0 +1,7 @@
+C:\Users\ricks\Desktop\programas\Ex cap 11\ExTratamentoExcecoes\ExTratamentoExcecoes\bin\Debug\ExTratamentoExcecoes.exe.config
+C:\Users\ricks\Desktop\programas\Ex cap 11\ExTratamentoExcecoes\ExTratamentoExcecoes\bin\Debug\ExTratamentoExcecoes.exe
+C:\Users\ricks\Desktop\programas\Ex cap 11\ExTratamentoExcecoes\ExTratamentoExcecoes\bin\Debug\ExTratamentoExcecoes.pdb
+C:\Users\ricks\Desktop\programas\Ex cap 11\ExTratamentoExcecoes\ExTratamentoExcecoes\obj\Debug\ExTratamentoExcecoes.csproj.AssemblyReference.cache
+C:\Users\ricks\Desktop\programas\Ex cap 11\ExTratamentoExcecoes\ExTratamentoExcecoes\obj\Debug\ExTratamentoExcecoes.csproj.CoreCompileInputs.cache
+C:\Users\ricks\Desktop\programas\Ex cap 11\ExTratamentoExcecoes\ExTratamentoExcecoes\obj\Debug\ExTratamentoExcecoes.exe
+C:\Users\ricks\Desktop\programas\Ex cap 11\ExTratamentoExcecoes\ExTratamentoExcecoes\obj\Debug\ExTratamentoExcecoes.pdb
