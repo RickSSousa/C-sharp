@@ -1,0 +1,13 @@
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercVetores\ExercVetores\bin\Debug\netcoreapp3.1\ExercVetores.exe
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercVetores\ExercVetores\bin\Debug\netcoreapp3.1\ExercVetores.deps.json
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercVetores\ExercVetores\bin\Debug\netcoreapp3.1\ExercVetores.runtimeconfig.json
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercVetores\ExercVetores\bin\Debug\netcoreapp3.1\ExercVetores.runtimeconfig.dev.json
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercVetores\ExercVetores\bin\Debug\netcoreapp3.1\ExercVetores.dll
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercVetores\ExercVetores\bin\Debug\netcoreapp3.1\ExercVetores.pdb
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercVetores\ExercVetores\obj\Debug\netcoreapp3.1\ExercVetores.csproj.AssemblyReference.cache
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercVetores\ExercVetores\obj\Debug\netcoreapp3.1\ExercVetores.AssemblyInfoInputs.cache
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercVetores\ExercVetores\obj\Debug\netcoreapp3.1\ExercVetores.AssemblyInfo.cs
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercVetores\ExercVetores\obj\Debug\netcoreapp3.1\ExercVetores.csproj.CoreCompileInputs.cache
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercVetores\ExercVetores\obj\Debug\netcoreapp3.1\ExercVetores.dll
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercVetores\ExercVetores\obj\Debug\netcoreapp3.1\ExercVetores.pdb
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercVetores\ExercVetores\obj\Debug\netcoreapp3.1\ExercVetores.genruntimeconfig.cache

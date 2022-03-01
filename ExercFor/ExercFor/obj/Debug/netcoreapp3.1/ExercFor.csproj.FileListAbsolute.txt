@@ -1,0 +1,13 @@
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercFor\ExercFor\bin\Debug\netcoreapp3.1\ExercFor.exe
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercFor\ExercFor\bin\Debug\netcoreapp3.1\ExercFor.deps.json
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercFor\ExercFor\bin\Debug\netcoreapp3.1\ExercFor.runtimeconfig.json
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercFor\ExercFor\bin\Debug\netcoreapp3.1\ExercFor.runtimeconfig.dev.json
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercFor\ExercFor\bin\Debug\netcoreapp3.1\ExercFor.dll
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercFor\ExercFor\bin\Debug\netcoreapp3.1\ExercFor.pdb
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercFor\ExercFor\obj\Debug\netcoreapp3.1\ExercFor.csproj.AssemblyReference.cache
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercFor\ExercFor\obj\Debug\netcoreapp3.1\ExercFor.AssemblyInfoInputs.cache
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercFor\ExercFor\obj\Debug\netcoreapp3.1\ExercFor.AssemblyInfo.cs
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercFor\ExercFor\obj\Debug\netcoreapp3.1\ExercFor.csproj.CoreCompileInputs.cache
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercFor\ExercFor\obj\Debug\netcoreapp3.1\ExercFor.dll
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercFor\ExercFor\obj\Debug\netcoreapp3.1\ExercFor.pdb
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercFor\ExercFor\obj\Debug\netcoreapp3.1\ExercFor.genruntimeconfig.cache

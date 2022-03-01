@@ -1,0 +1,13 @@
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercWhile\ExercWhile\bin\Debug\netcoreapp3.1\ExercWhile.exe
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercWhile\ExercWhile\bin\Debug\netcoreapp3.1\ExercWhile.deps.json
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercWhile\ExercWhile\bin\Debug\netcoreapp3.1\ExercWhile.runtimeconfig.json
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercWhile\ExercWhile\bin\Debug\netcoreapp3.1\ExercWhile.runtimeconfig.dev.json
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercWhile\ExercWhile\bin\Debug\netcoreapp3.1\ExercWhile.dll
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercWhile\ExercWhile\bin\Debug\netcoreapp3.1\ExercWhile.pdb
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercWhile\ExercWhile\obj\Debug\netcoreapp3.1\ExercWhile.csproj.AssemblyReference.cache
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercWhile\ExercWhile\obj\Debug\netcoreapp3.1\ExercWhile.AssemblyInfoInputs.cache
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercWhile\ExercWhile\obj\Debug\netcoreapp3.1\ExercWhile.AssemblyInfo.cs
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercWhile\ExercWhile\obj\Debug\netcoreapp3.1\ExercWhile.csproj.CoreCompileInputs.cache
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercWhile\ExercWhile\obj\Debug\netcoreapp3.1\ExercWhile.dll
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercWhile\ExercWhile\obj\Debug\netcoreapp3.1\ExercWhile.pdb
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExercWhile\ExercWhile\obj\Debug\netcoreapp3.1\ExercWhile.genruntimeconfig.cache

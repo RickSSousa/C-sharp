@@ -1,0 +1,13 @@
+C:\Users\ricks\Desktop\programas\ExercTiposEnum\ExercTiposEnum\bin\Debug\netcoreapp3.1\ExercTiposEnum.exe
+C:\Users\ricks\Desktop\programas\ExercTiposEnum\ExercTiposEnum\bin\Debug\netcoreapp3.1\ExercTiposEnum.deps.json
+C:\Users\ricks\Desktop\programas\ExercTiposEnum\ExercTiposEnum\bin\Debug\netcoreapp3.1\ExercTiposEnum.runtimeconfig.json
+C:\Users\ricks\Desktop\programas\ExercTiposEnum\ExercTiposEnum\bin\Debug\netcoreapp3.1\ExercTiposEnum.runtimeconfig.dev.json
+C:\Users\ricks\Desktop\programas\ExercTiposEnum\ExercTiposEnum\bin\Debug\netcoreapp3.1\ExercTiposEnum.dll
+C:\Users\ricks\Desktop\programas\ExercTiposEnum\ExercTiposEnum\bin\Debug\netcoreapp3.1\ExercTiposEnum.pdb
+C:\Users\ricks\Desktop\programas\ExercTiposEnum\ExercTiposEnum\obj\Debug\netcoreapp3.1\ExercTiposEnum.csproj.AssemblyReference.cache
+C:\Users\ricks\Desktop\programas\ExercTiposEnum\ExercTiposEnum\obj\Debug\netcoreapp3.1\ExercTiposEnum.AssemblyInfoInputs.cache
+C:\Users\ricks\Desktop\programas\ExercTiposEnum\ExercTiposEnum\obj\Debug\netcoreapp3.1\ExercTiposEnum.AssemblyInfo.cs
+C:\Users\ricks\Desktop\programas\ExercTiposEnum\ExercTiposEnum\obj\Debug\netcoreapp3.1\ExercTiposEnum.csproj.CoreCompileInputs.cache
+C:\Users\ricks\Desktop\programas\ExercTiposEnum\ExercTiposEnum\obj\Debug\netcoreapp3.1\ExercTiposEnum.dll
+C:\Users\ricks\Desktop\programas\ExercTiposEnum\ExercTiposEnum\obj\Debug\netcoreapp3.1\ExercTiposEnum.pdb
+C:\Users\ricks\Desktop\programas\ExercTiposEnum\ExercTiposEnum\obj\Debug\netcoreapp3.1\ExercTiposEnum.genruntimeconfig.cache

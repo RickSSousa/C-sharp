@@ -1,0 +1,13 @@
+C:\Users\ricks\Desktop\programas\ExercResolvido2ClasseRelacio\ExercResolvido2ClasseRelacio\bin\Debug\netcoreapp3.1\ExercResolvido2ClasseRelacio.exe
+C:\Users\ricks\Desktop\programas\ExercResolvido2ClasseRelacio\ExercResolvido2ClasseRelacio\bin\Debug\netcoreapp3.1\ExercResolvido2ClasseRelacio.deps.json
+C:\Users\ricks\Desktop\programas\ExercResolvido2ClasseRelacio\ExercResolvido2ClasseRelacio\bin\Debug\netcoreapp3.1\ExercResolvido2ClasseRelacio.runtimeconfig.json
+C:\Users\ricks\Desktop\programas\ExercResolvido2ClasseRelacio\ExercResolvido2ClasseRelacio\bin\Debug\netcoreapp3.1\ExercResolvido2ClasseRelacio.runtimeconfig.dev.json
+C:\Users\ricks\Desktop\programas\ExercResolvido2ClasseRelacio\ExercResolvido2ClasseRelacio\bin\Debug\netcoreapp3.1\ExercResolvido2ClasseRelacio.dll
+C:\Users\ricks\Desktop\programas\ExercResolvido2ClasseRelacio\ExercResolvido2ClasseRelacio\bin\Debug\netcoreapp3.1\ExercResolvido2ClasseRelacio.pdb
+C:\Users\ricks\Desktop\programas\ExercResolvido2ClasseRelacio\ExercResolvido2ClasseRelacio\obj\Debug\netcoreapp3.1\ExercResolvido2ClasseRelacio.csproj.AssemblyReference.cache
+C:\Users\ricks\Desktop\programas\ExercResolvido2ClasseRelacio\ExercResolvido2ClasseRelacio\obj\Debug\netcoreapp3.1\ExercResolvido2ClasseRelacio.AssemblyInfoInputs.cache
+C:\Users\ricks\Desktop\programas\ExercResolvido2ClasseRelacio\ExercResolvido2ClasseRelacio\obj\Debug\netcoreapp3.1\ExercResolvido2ClasseRelacio.AssemblyInfo.cs
+C:\Users\ricks\Desktop\programas\ExercResolvido2ClasseRelacio\ExercResolvido2ClasseRelacio\obj\Debug\netcoreapp3.1\ExercResolvido2ClasseRelacio.csproj.CoreCompileInputs.cache
+C:\Users\ricks\Desktop\programas\ExercResolvido2ClasseRelacio\ExercResolvido2ClasseRelacio\obj\Debug\netcoreapp3.1\ExercResolvido2ClasseRelacio.dll
+C:\Users\ricks\Desktop\programas\ExercResolvido2ClasseRelacio\ExercResolvido2ClasseRelacio\obj\Debug\netcoreapp3.1\ExercResolvido2ClasseRelacio.pdb
+C:\Users\ricks\Desktop\programas\ExercResolvido2ClasseRelacio\ExercResolvido2ClasseRelacio\obj\Debug\netcoreapp3.1\ExercResolvido2ClasseRelacio.genruntimeconfig.cache
