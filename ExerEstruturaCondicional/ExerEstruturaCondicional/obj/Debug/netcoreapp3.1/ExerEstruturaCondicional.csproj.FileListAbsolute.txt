@@ -1,0 +1,13 @@
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerEstruturaCondicional\ExerEstruturaCondicional\bin\Debug\netcoreapp3.1\ExerEstruturaCondicional.exe
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerEstruturaCondicional\ExerEstruturaCondicional\bin\Debug\netcoreapp3.1\ExerEstruturaCondicional.deps.json
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerEstruturaCondicional\ExerEstruturaCondicional\bin\Debug\netcoreapp3.1\ExerEstruturaCondicional.runtimeconfig.json
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerEstruturaCondicional\ExerEstruturaCondicional\bin\Debug\netcoreapp3.1\ExerEstruturaCondicional.runtimeconfig.dev.json
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerEstruturaCondicional\ExerEstruturaCondicional\bin\Debug\netcoreapp3.1\ExerEstruturaCondicional.dll
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerEstruturaCondicional\ExerEstruturaCondicional\bin\Debug\netcoreapp3.1\ExerEstruturaCondicional.pdb
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerEstruturaCondicional\ExerEstruturaCondicional\obj\Debug\netcoreapp3.1\ExerEstruturaCondicional.csproj.AssemblyReference.cache
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerEstruturaCondicional\ExerEstruturaCondicional\obj\Debug\netcoreapp3.1\ExerEstruturaCondicional.AssemblyInfoInputs.cache
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerEstruturaCondicional\ExerEstruturaCondicional\obj\Debug\netcoreapp3.1\ExerEstruturaCondicional.AssemblyInfo.cs
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerEstruturaCondicional\ExerEstruturaCondicional\obj\Debug\netcoreapp3.1\ExerEstruturaCondicional.csproj.CoreCompileInputs.cache
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerEstruturaCondicional\ExerEstruturaCondicional\obj\Debug\netcoreapp3.1\ExerEstruturaCondicional.dll
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerEstruturaCondicional\ExerEstruturaCondicional\obj\Debug\netcoreapp3.1\ExerEstruturaCondicional.pdb
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerEstruturaCondicional\ExerEstruturaCondicional\obj\Debug\netcoreapp3.1\ExerEstruturaCondicional.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerMatriz\ExerMatriz\bin\Debug\netcoreapp3.1\ExerMatriz.exe
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerMatriz\ExerMatriz\bin\Debug\netcoreapp3.1\ExerMatriz.deps.json
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerMatriz\ExerMatriz\bin\Debug\netcoreapp3.1\ExerMatriz.runtimeconfig.json
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerMatriz\ExerMatriz\bin\Debug\netcoreapp3.1\ExerMatriz.runtimeconfig.dev.json
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerMatriz\ExerMatriz\bin\Debug\netcoreapp3.1\ExerMatriz.dll
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerMatriz\ExerMatriz\bin\Debug\netcoreapp3.1\ExerMatriz.pdb
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerMatriz\ExerMatriz\obj\Debug\netcoreapp3.1\ExerMatriz.csproj.AssemblyReference.cache
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerMatriz\ExerMatriz\obj\Debug\netcoreapp3.1\ExerMatriz.AssemblyInfoInputs.cache
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerMatriz\ExerMatriz\obj\Debug\netcoreapp3.1\ExerMatriz.AssemblyInfo.cs
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerMatriz\ExerMatriz\obj\Debug\netcoreapp3.1\ExerMatriz.csproj.CoreCompileInputs.cache
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerMatriz\ExerMatriz\obj\Debug\netcoreapp3.1\ExerMatriz.dll
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerMatriz\ExerMatriz\obj\Debug\netcoreapp3.1\ExerMatriz.pdb
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerMatriz\ExerMatriz\obj\Debug\netcoreapp3.1\ExerMatriz.genruntimeconfig.cache

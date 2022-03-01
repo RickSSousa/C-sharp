@@ -1,0 +1,13 @@
+C:\Users\ricks\source\repos\PrimeirosExsPOO\PrimeirosExsPOO\bin\Debug\netcoreapp3.1\PrimeirosExsPOO.exe
+C:\Users\ricks\source\repos\PrimeirosExsPOO\PrimeirosExsPOO\bin\Debug\netcoreapp3.1\PrimeirosExsPOO.deps.json
+C:\Users\ricks\source\repos\PrimeirosExsPOO\PrimeirosExsPOO\bin\Debug\netcoreapp3.1\PrimeirosExsPOO.runtimeconfig.json
+C:\Users\ricks\source\repos\PrimeirosExsPOO\PrimeirosExsPOO\bin\Debug\netcoreapp3.1\PrimeirosExsPOO.runtimeconfig.dev.json
+C:\Users\ricks\source\repos\PrimeirosExsPOO\PrimeirosExsPOO\bin\Debug\netcoreapp3.1\PrimeirosExsPOO.dll
+C:\Users\ricks\source\repos\PrimeirosExsPOO\PrimeirosExsPOO\bin\Debug\netcoreapp3.1\PrimeirosExsPOO.pdb
+C:\Users\ricks\source\repos\PrimeirosExsPOO\PrimeirosExsPOO\obj\Debug\netcoreapp3.1\PrimeirosExsPOO.csproj.AssemblyReference.cache
+C:\Users\ricks\source\repos\PrimeirosExsPOO\PrimeirosExsPOO\obj\Debug\netcoreapp3.1\PrimeirosExsPOO.AssemblyInfoInputs.cache
+C:\Users\ricks\source\repos\PrimeirosExsPOO\PrimeirosExsPOO\obj\Debug\netcoreapp3.1\PrimeirosExsPOO.AssemblyInfo.cs
+C:\Users\ricks\source\repos\PrimeirosExsPOO\PrimeirosExsPOO\obj\Debug\netcoreapp3.1\PrimeirosExsPOO.csproj.CoreCompileInputs.cache
+C:\Users\ricks\source\repos\PrimeirosExsPOO\PrimeirosExsPOO\obj\Debug\netcoreapp3.1\PrimeirosExsPOO.dll
+C:\Users\ricks\source\repos\PrimeirosExsPOO\PrimeirosExsPOO\obj\Debug\netcoreapp3.1\PrimeirosExsPOO.pdb
+C:\Users\ricks\source\repos\PrimeirosExsPOO\PrimeirosExsPOO\obj\Debug\netcoreapp3.1\PrimeirosExsPOO.genruntimeconfig.cache

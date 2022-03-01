@@ -1,0 +1,13 @@
+C:\Users\ricks\source\repos\ExerEstruturaSequencial\ExerEstruturaSequencial\bin\Debug\netcoreapp3.1\ExerEstruturaSequencial.exe
+C:\Users\ricks\source\repos\ExerEstruturaSequencial\ExerEstruturaSequencial\bin\Debug\netcoreapp3.1\ExerEstruturaSequencial.deps.json
+C:\Users\ricks\source\repos\ExerEstruturaSequencial\ExerEstruturaSequencial\bin\Debug\netcoreapp3.1\ExerEstruturaSequencial.runtimeconfig.json
+C:\Users\ricks\source\repos\ExerEstruturaSequencial\ExerEstruturaSequencial\bin\Debug\netcoreapp3.1\ExerEstruturaSequencial.runtimeconfig.dev.json
+C:\Users\ricks\source\repos\ExerEstruturaSequencial\ExerEstruturaSequencial\bin\Debug\netcoreapp3.1\ExerEstruturaSequencial.dll
+C:\Users\ricks\source\repos\ExerEstruturaSequencial\ExerEstruturaSequencial\bin\Debug\netcoreapp3.1\ExerEstruturaSequencial.pdb
+C:\Users\ricks\source\repos\ExerEstruturaSequencial\ExerEstruturaSequencial\obj\Debug\netcoreapp3.1\ExerEstruturaSequencial.csproj.AssemblyReference.cache
+C:\Users\ricks\source\repos\ExerEstruturaSequencial\ExerEstruturaSequencial\obj\Debug\netcoreapp3.1\ExerEstruturaSequencial.AssemblyInfoInputs.cache
+C:\Users\ricks\source\repos\ExerEstruturaSequencial\ExerEstruturaSequencial\obj\Debug\netcoreapp3.1\ExerEstruturaSequencial.AssemblyInfo.cs
+C:\Users\ricks\source\repos\ExerEstruturaSequencial\ExerEstruturaSequencial\obj\Debug\netcoreapp3.1\ExerEstruturaSequencial.csproj.CoreCompileInputs.cache
+C:\Users\ricks\source\repos\ExerEstruturaSequencial\ExerEstruturaSequencial\obj\Debug\netcoreapp3.1\ExerEstruturaSequencial.dll
+C:\Users\ricks\source\repos\ExerEstruturaSequencial\ExerEstruturaSequencial\obj\Debug\netcoreapp3.1\ExerEstruturaSequencial.pdb
+C:\Users\ricks\source\repos\ExerEstruturaSequencial\ExerEstruturaSequencial\obj\Debug\netcoreapp3.1\ExerEstruturaSequencial.genruntimeconfig.cache

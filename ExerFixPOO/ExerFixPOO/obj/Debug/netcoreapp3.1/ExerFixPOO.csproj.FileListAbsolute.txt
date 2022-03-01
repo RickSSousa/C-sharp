@@ -1,0 +1,13 @@
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerFixPOO\ExerFixPOO\bin\Debug\netcoreapp3.1\ExerFixPOO.exe
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerFixPOO\ExerFixPOO\bin\Debug\netcoreapp3.1\ExerFixPOO.deps.json
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerFixPOO\ExerFixPOO\bin\Debug\netcoreapp3.1\ExerFixPOO.runtimeconfig.json
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerFixPOO\ExerFixPOO\bin\Debug\netcoreapp3.1\ExerFixPOO.runtimeconfig.dev.json
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerFixPOO\ExerFixPOO\bin\Debug\netcoreapp3.1\ExerFixPOO.dll
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerFixPOO\ExerFixPOO\bin\Debug\netcoreapp3.1\ExerFixPOO.pdb
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerFixPOO\ExerFixPOO\obj\Debug\netcoreapp3.1\ExerFixPOO.csproj.AssemblyReference.cache
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerFixPOO\ExerFixPOO\obj\Debug\netcoreapp3.1\ExerFixPOO.AssemblyInfoInputs.cache
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerFixPOO\ExerFixPOO\obj\Debug\netcoreapp3.1\ExerFixPOO.AssemblyInfo.cs
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerFixPOO\ExerFixPOO\obj\Debug\netcoreapp3.1\ExerFixPOO.csproj.CoreCompileInputs.cache
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerFixPOO\ExerFixPOO\obj\Debug\netcoreapp3.1\ExerFixPOO.dll
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerFixPOO\ExerFixPOO\obj\Debug\netcoreapp3.1\ExerFixPOO.pdb
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerFixPOO\ExerFixPOO\obj\Debug\netcoreapp3.1\ExerFixPOO.genruntimeconfig.cache

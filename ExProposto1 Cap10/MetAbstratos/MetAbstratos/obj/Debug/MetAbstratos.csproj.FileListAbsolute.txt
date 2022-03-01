@@ -1,0 +1,7 @@
+C:\Users\ricks\Desktop\programas\ExProposto1 Cap10\MetAbstratos\MetAbstratos\bin\Debug\MetAbstratos.exe.config
+C:\Users\ricks\Desktop\programas\ExProposto1 Cap10\MetAbstratos\MetAbstratos\bin\Debug\MetAbstratos.exe
+C:\Users\ricks\Desktop\programas\ExProposto1 Cap10\MetAbstratos\MetAbstratos\bin\Debug\MetAbstratos.pdb
+C:\Users\ricks\Desktop\programas\ExProposto1 Cap10\MetAbstratos\MetAbstratos\obj\Debug\MetAbstratos.csproj.AssemblyReference.cache
+C:\Users\ricks\Desktop\programas\ExProposto1 Cap10\MetAbstratos\MetAbstratos\obj\Debug\MetAbstratos.csproj.CoreCompileInputs.cache
+C:\Users\ricks\Desktop\programas\ExProposto1 Cap10\MetAbstratos\MetAbstratos\obj\Debug\MetAbstratos.exe
+C:\Users\ricks\Desktop\programas\ExProposto1 Cap10\MetAbstratos\MetAbstratos\obj\Debug\MetAbstratos.pdb

@@ -1,0 +1,13 @@
+C:\Users\ricks\Desktop\programas\ExerResolHerançaEPolimorfismo\ExerResolHerançaEPolimorfismo\bin\Debug\netcoreapp3.1\ExerResolHerançaEPolimorfismo.exe
+C:\Users\ricks\Desktop\programas\ExerResolHerançaEPolimorfismo\ExerResolHerançaEPolimorfismo\bin\Debug\netcoreapp3.1\ExerResolHerançaEPolimorfismo.deps.json
+C:\Users\ricks\Desktop\programas\ExerResolHerançaEPolimorfismo\ExerResolHerançaEPolimorfismo\bin\Debug\netcoreapp3.1\ExerResolHerançaEPolimorfismo.runtimeconfig.json
+C:\Users\ricks\Desktop\programas\ExerResolHerançaEPolimorfismo\ExerResolHerançaEPolimorfismo\bin\Debug\netcoreapp3.1\ExerResolHerançaEPolimorfismo.runtimeconfig.dev.json
+C:\Users\ricks\Desktop\programas\ExerResolHerançaEPolimorfismo\ExerResolHerançaEPolimorfismo\bin\Debug\netcoreapp3.1\ExerResolHerançaEPolimorfismo.dll
+C:\Users\ricks\Desktop\programas\ExerResolHerançaEPolimorfismo\ExerResolHerançaEPolimorfismo\bin\Debug\netcoreapp3.1\ExerResolHerançaEPolimorfismo.pdb
+C:\Users\ricks\Desktop\programas\ExerResolHerançaEPolimorfismo\ExerResolHerançaEPolimorfismo\obj\Debug\netcoreapp3.1\ExerResolHerançaEPolimorfismo.csproj.AssemblyReference.cache
+C:\Users\ricks\Desktop\programas\ExerResolHerançaEPolimorfismo\ExerResolHerançaEPolimorfismo\obj\Debug\netcoreapp3.1\ExerResolHerançaEPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\ricks\Desktop\programas\ExerResolHerançaEPolimorfismo\ExerResolHerançaEPolimorfismo\obj\Debug\netcoreapp3.1\ExerResolHerançaEPolimorfismo.AssemblyInfo.cs
+C:\Users\ricks\Desktop\programas\ExerResolHerançaEPolimorfismo\ExerResolHerançaEPolimorfismo\obj\Debug\netcoreapp3.1\ExerResolHerançaEPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\ricks\Desktop\programas\ExerResolHerançaEPolimorfismo\ExerResolHerançaEPolimorfismo\obj\Debug\netcoreapp3.1\ExerResolHerançaEPolimorfismo.dll
+C:\Users\ricks\Desktop\programas\ExerResolHerançaEPolimorfismo\ExerResolHerançaEPolimorfismo\obj\Debug\netcoreapp3.1\ExerResolHerançaEPolimorfismo.pdb
+C:\Users\ricks\Desktop\programas\ExerResolHerançaEPolimorfismo\ExerResolHerançaEPolimorfismo\obj\Debug\netcoreapp3.1\ExerResolHerançaEPolimorfismo.genruntimeconfig.cache

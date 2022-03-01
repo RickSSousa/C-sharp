@@ -1,0 +1,2 @@
+a classe é a definição de um tipo, ex: triangulo
+objeto são as instancias da minha classe, ex: x e y e atributos são A B e C do triangulo

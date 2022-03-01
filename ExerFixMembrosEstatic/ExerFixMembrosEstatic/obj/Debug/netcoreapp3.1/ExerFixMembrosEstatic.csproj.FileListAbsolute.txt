@@ -1,0 +1,13 @@
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerFixMembrosEstatic\ExerFixMembrosEstatic\bin\Debug\netcoreapp3.1\ExerFixMembrosEstatic.exe
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerFixMembrosEstatic\ExerFixMembrosEstatic\bin\Debug\netcoreapp3.1\ExerFixMembrosEstatic.deps.json
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerFixMembrosEstatic\ExerFixMembrosEstatic\bin\Debug\netcoreapp3.1\ExerFixMembrosEstatic.runtimeconfig.json
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerFixMembrosEstatic\ExerFixMembrosEstatic\bin\Debug\netcoreapp3.1\ExerFixMembrosEstatic.runtimeconfig.dev.json
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerFixMembrosEstatic\ExerFixMembrosEstatic\bin\Debug\netcoreapp3.1\ExerFixMembrosEstatic.dll
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerFixMembrosEstatic\ExerFixMembrosEstatic\bin\Debug\netcoreapp3.1\ExerFixMembrosEstatic.pdb
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerFixMembrosEstatic\ExerFixMembrosEstatic\obj\Debug\netcoreapp3.1\ExerFixMembrosEstatic.csproj.AssemblyReference.cache
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerFixMembrosEstatic\ExerFixMembrosEstatic\obj\Debug\netcoreapp3.1\ExerFixMembrosEstatic.AssemblyInfoInputs.cache
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerFixMembrosEstatic\ExerFixMembrosEstatic\obj\Debug\netcoreapp3.1\ExerFixMembrosEstatic.AssemblyInfo.cs
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerFixMembrosEstatic\ExerFixMembrosEstatic\obj\Debug\netcoreapp3.1\ExerFixMembrosEstatic.csproj.CoreCompileInputs.cache
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerFixMembrosEstatic\ExerFixMembrosEstatic\obj\Debug\netcoreapp3.1\ExerFixMembrosEstatic.dll
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerFixMembrosEstatic\ExerFixMembrosEstatic\obj\Debug\netcoreapp3.1\ExerFixMembrosEstatic.pdb
+C:\Users\ricks\OneDrive\Área de Trabalho\programas\ExerFixMembrosEstatic\ExerFixMembrosEstatic\obj\Debug\netcoreapp3.1\ExerFixMembrosEstatic.genruntimeconfig.cache

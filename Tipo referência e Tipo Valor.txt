@@ -1,0 +1,4 @@
+tipo referência(classe) é a variavel que aponta para um valor no Heap
+Tipo valor(struct) é a variável q recebe o valor no stack
+
+mesmo sendo um tipo struct, é preciso inicializar com algum valor ou com "new"

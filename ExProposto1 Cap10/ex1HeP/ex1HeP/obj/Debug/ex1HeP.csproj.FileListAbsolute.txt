@@ -1,0 +1,7 @@
+C:\Users\ricks\Desktop\programas\ExProposto1 Cap10\ex1HeP\ex1HeP\bin\Debug\ex1HeP.exe.config
+C:\Users\ricks\Desktop\programas\ExProposto1 Cap10\ex1HeP\ex1HeP\bin\Debug\ex1HeP.exe
+C:\Users\ricks\Desktop\programas\ExProposto1 Cap10\ex1HeP\ex1HeP\bin\Debug\ex1HeP.pdb
+C:\Users\ricks\Desktop\programas\ExProposto1 Cap10\ex1HeP\ex1HeP\obj\Debug\ex1HeP.csproj.AssemblyReference.cache
+C:\Users\ricks\Desktop\programas\ExProposto1 Cap10\ex1HeP\ex1HeP\obj\Debug\ex1HeP.csproj.CoreCompileInputs.cache
+C:\Users\ricks\Desktop\programas\ExProposto1 Cap10\ex1HeP\ex1HeP\obj\Debug\ex1HeP.exe
+C:\Users\ricks\Desktop\programas\ExProposto1 Cap10\ex1HeP\ex1HeP\obj\Debug\ex1HeP.pdb
